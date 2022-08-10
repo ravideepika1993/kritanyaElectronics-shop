@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kritanyaElectronics-shop/static/css/main.61e1b010.css",
+    "main.js": "/kritanyaElectronics-shop/static/js/main.61b1943d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/kritanyaElectronics-shop/static/js/787.28cb0dcd.chunk.js",
+    "static/media/electronicss.jpg": "/kritanyaElectronics-shop/static/media/electronicss.8c3f79611920b1b3860a.jpg",
+    "index.html": "/kritanyaElectronics-shop/index.html",
+    "main.61e1b010.css.map": "/kritanyaElectronics-shop/static/css/main.61e1b010.css.map",
+    "main.61b1943d.js.map": "/kritanyaElectronics-shop/static/js/main.61b1943d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/kritanyaElectronics-shop/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61e1b010.css",
+    "static/js/main.61b1943d.js"
+  ]
+}
